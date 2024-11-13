@@ -54,7 +54,7 @@ import AnimatedButtonLib
 
 @IBAction func btnClick(_ sender: UIButton) {
     sender.press {
-        print("Button Pressed!")
+        print("Button Pressed!")sasyyty
     }
 }
 ```
